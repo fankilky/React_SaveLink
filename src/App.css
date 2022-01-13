@@ -170,6 +170,6 @@
   color: rgb(143, 143, 143);
 }
 
-.deletebtn:hover {
+.deletebtn i:hover {
   color: rgb(248, 44, 44);
 }
