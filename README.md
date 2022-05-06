@@ -12,6 +12,7 @@ The application will allow users to search and filter links that have already be
 2. SearchBar - Search and filter links that have already been added
 3. AddLink - Add links that user want to Save and Share, tags can be added too
 
+## Run the app
 ### `yarn start`
 
 Runs the app in the development mode.\
